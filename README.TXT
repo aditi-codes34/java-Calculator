@@ -1,9 +1,10 @@
-------------------------------------------------------------------------
+----------------------------------------------------------------------
 Title: Java calculator(basic)
-------------------------------------------------------------------------
+----------------------------------------------------------------------
 
 #About:
-A simple GUI-based calculator developed in java.
+A simple java program that performs basic mathematical operations
+on two numbers.
 
 #Features:
 -> Addition
@@ -22,9 +23,7 @@ A simple GUI-based calculator developed in java.
 - MouseMotionListener
 
 #How to run:-
-Open the project in Bluej, 
-compile the Calculator class,
+Open the project in Bluej, compile the Calculator class,
 and run the program.
+Enter two numbers and select the required operation.
 
-#Author:-
-Aditi Mittal
